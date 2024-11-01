@@ -1,0 +1,46 @@
+############################################
+# Ignore some other system generated files #
+############################################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.log
+*.sql
+*.sqlite
+.DS_Store
+wp-cli.local.yml
+node_modules/
+vendor/
+*.zip
+*.tar.gz
+*.log
+phpunit.xml
+phpcs.xml
+.phpcs.xml
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.codekit-cache
+.sass-cache
+# Sublime
+*.sublime-project
+*.sublime-workspace
+# PhpStorm /Intellij
+.idea/
+*.iml
+# Geany
+.directory
+# VSCode
+*.code-workspace
